@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  🚀 Software Developer | 🌐 Full Stack Web Developer | ☕ Java Developer
+  🚀 Software Developer | 🌐 Full Stack Web Developer | ☕ AI-ML Engineer
 </h3>
 
 <p align="center">
@@ -18,24 +18,24 @@
 ---
 
 ## 👨‍💻 About Me
-🎓 Second-year **B.Tech Computer Science Engineering** student  
-💻 Passionate about **Software Development & Modern Web Technologies**  
+🎓 Third-year **B.Tech Computer Science Engineering** student  
+💻 Passionate about **AI-ML & Modern Web Technologies**  
 🧠 Strong foundation in **DSA, OOP, and problem-solving**  
-🎨 Also skilled in **Graphics Design, Video Editing & 3D Animation**
+🎨 Also skilled in **Photo Editing, Video Editing**
 
 ---
 
 ## 🔭 Currently Working On
-- 💻 Projects using **C, Java & Python**
+- 💻 Projects using **Web development , AI-ML & Python**
 - 🌐 **Full Stack Web Development**
-- 🎮 **Java Game Development (DSA-based)**
-- ⚙️ Automation & real-world applications
+- 🎮 **Unity Game Development (DSA-based)**
+- ⚙️ Automation & real-world applications using AI-ML 
 
 ---
 
 ## 🤝 Looking to Collaborate On
 - 🚀 Full Stack Web Applications  
-- ☕ Java Software & Game Development  
+- ☕  Game Development  
 - 🐍 Python Automation / Data Projects  
 - 🌍 Open-source contributions
 
@@ -43,26 +43,24 @@
 
 ## 🆘 Looking for Help With
 - 🔐 Cyber Security (Hands-on tools & labs)
-- ☁️ Cloud Computing & DevOps
+- ☁️ Cloud Computing 
 - 🎮 Unity Game Development
-- 🎨 Advanced UI/UX & Blender
+- 🎨 Advanced Python
 
 ---
 
 ## 🌱 Currently Learning
 - Full Stack Web Development  
-- Cyber Security  
 - Unity Game Development  
-- UI/UX Designing  
-- 3D Animation (Blender)  
-- Cloud Computing & DevOps  
-- Advanced DSA  
+- AI-ML Algorithms 
+- Cloud Computing (AWS)
+- Advanced DSA using java  
 
 ---
 
 ## 🧠 Ask Me About
 - C Programming with DSA  
-- Java (Core Java, Swing, AWT, Applet, OOP, Games)  
+- Java (Core Java, OOP)  
 - Python Development  
 - HTML & CSS  
 - Software Project Development  
@@ -108,14 +106,14 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GouravJena98&theme=onestar&no-frame=true&row=1"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/GouravJena98/GouravJena98/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -127,10 +125,10 @@
 
 ## 📫 Connect With Me
 <p>
-  <a href="mailto:gouravjena95@gmail.com">
+  <a href="mailto:gouravjena996@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/gourav-jena-b67079335">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
